@@ -122,8 +122,7 @@ color: #383230;
 .title{
     width: 100%;
     height: 588px;
-    background-image: url("/img/fon.png");
-
+   background-image: url("/kosmetic.github.io/img/fon.png");
 }
 
 .title_text{
@@ -198,7 +197,7 @@ color: #383230;
 }
 
 .kyrs1 {
-    display: flex;
+  
     width: 420px;
     height: 45px;
     margin: auto;
@@ -362,22 +361,26 @@ color: #000000;
 
 .news{
     width: 100%;
-        height: 580px;
+        height: 500px;
         margin: auto;
+    
+        margin-top: 80px;
 }
 
 .newsblok{
-    display: flex;
-        flex-direction: column;
-        align-items: flex-start;
-        padding-top: 16%;
+  height: 190px;
+  width: 347px;
+        padding-top: 14%;
+        float: left;
         margin-left: 64px;
+     
 }
 .knopka2{
     width: 153px;
         height: 42px;
         border: 0.5px solid #666666;
         background: #FFF;
+        margin-top: 15px;
 }
 
 .knopka2:hover {
@@ -400,37 +403,29 @@ color: #000000;
         line-height: 42px;
 }
 
-.text3 {
-color: #515151;
-    font-family: Arial;
-    font-size: 15px;
-    font-style: normal;
-    font-weight: 300;
-    width: 347px;
-    line-height: 20px;
-    margin-bottom: 22px;
-}
 
-h2{
-    display: flex;
-        width: 151px;
-        height: 19px;
-        flex-direction: column;
-        justify-content: center;
-        color: #000;
-            font-family: EB Garamond;
-            font-size: 36px;
-            font-style: normal;
-            font-weight: 400;
-            line-height: 30px;
-            letter-spacing: 2.5px;
-}
+
+ .text3 {
+     color: #515151;
+     font-family: Arial;
+     font-size: 15px;
+     font-style: normal;
+
+ }
+
+  .h2 {
+
+      color: #000;
+      font-family: EB Garamond;
+      font-size: 36px;
+      font-style: normal;
+      margin-bottom: 15px;
+      letter-spacing: 2.5px;
+     
+  }
 
 .kartku0{
-    display: flex;
-    justify-content: center;
-    align-items: flex-start;
-    gap: 25px;
+
     margin-right: 64px;
 float: right;
 width: 625px;
@@ -744,9 +739,7 @@ a {
 }
 
 .kartku_0 {
-    display: flex;
-    justify-content: center;
-    align-items: flex-start;
+
     gap: 25px;
     float: left;
     width: 625px;
@@ -769,11 +762,9 @@ letter-spacing: 1px;
 }
 
 .newsblok2 {
-display: flex;
+
     width: 354px;
-    flex-direction: column;
-    justify-content: center;
-    align-items: flex-end;
+
     padding-top: 16%;
    }
 
@@ -784,9 +775,7 @@ h4{
         font-size: 34px;
         font-style: normal;
         font-weight: 400;
-        display: flex;
-         flex-direction: column;
-         justify-content: center;
+       
         letter-spacing:2px;
 }
 
@@ -971,9 +960,7 @@ color: #FFF;
     width: 1070px;
     height: 463px;
     margin-left: 64px;
-    display: flex;
-    justify-content: center;
-    align-items: flex-start;
+
     gap: 86px;
 }
 
@@ -981,45 +968,55 @@ color: #FFF;
     margin-top: 77px;
 }
 
-.linetop{
-    width: 1090px;
-    height: 18px;
-    margin: auto;
-    margin-top: 60px;
-    display: flex;
-        align-items: center;
-        gap: 35px;
-}
+ .linetop {
+     width: 385px;
+     height: 18px;
+     margin: auto;
+     margin-top: 60px;
+ }
 
-.line1{
-width: 500px;
-    height: 1px;
-    background: #000;
-    float: left;
-   
-}
-
-.line2 {
-    width: 500px;
-    height: 1px;
-    background: #000;
-    float: right;
+        .line1 {
+            width: 140px;
+            height: 0.5px;
+            background: #000;
+            float: left;
+            margin-top: 9px;
+           
+           
     
-}
-.linebottom {
-    width: 1090px;
-    height: 18px;
-    margin: auto;
-    display: flex;
-    align-items: center;
-    gap: 35px;
-}
+    
+        }
+    
+        .star {
+            width: 16px;
+            height: 16px;
+            margin-left: 5px;
+            margin-right: 5px;
+            margin: auto;
+        }
+    
+        .line2 {
+            width: 140px;
+            height: 0.5px;
+            background: #000;
+            float: right;
+            
+            margin-top: -7px;
+           
+    
+        }
+    
+        .linebottom {
+            width: 390px;
+            height: 16px;
+            margin: auto;
+            margin-top: 50px;
 
+        }
 .nomer{
-    display: flex;
+ 
         height: 16px;
-        justify-content: center;
-        align-items: flex-end;
+      
         gap: 15px;
         width: 130px;
         height: 25px;
