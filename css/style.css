@@ -730,7 +730,7 @@ a {
 }
 
 .propoz{
-        width: 100%;
+        width: 1070px;
         height: 500px;
         margin: auto;
         margin-top: 80px;
@@ -754,22 +754,21 @@ a {
         font-style: normal;
         font-weight: 300;
         line-height: 24px;
-        margin: auto;
-        width: 354px;
-margin-top: -30px;
-letter-spacing: 1px;
+       width:320px ;
+letter-spacing: 0/5px;
 }
 
 .newsblok2 {
 
 height: 190px;
-    width: 347px;
+    width: 320px;
     padding-top: 9%;
     float: right;
-    margin-right: 64px;
-   }
+  
+}
 
-h4{
+
+.h4{
     color: #000;
         text-align: right;
         font-family: EB Garamond;
@@ -777,6 +776,7 @@ h4{
         font-style: normal;
         font-weight: 400;
         letter-spacing:2px;
+        margin-bottom: 20px;
 }
 
 .knopka3 {
