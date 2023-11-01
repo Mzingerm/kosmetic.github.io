@@ -122,7 +122,8 @@ color: #383230;
 .title{
     width: 100%;
     height: 588px;
-   background-image: url("/kosmetic.github.io/fon.png");
+   background-image: url("/kosmetic.github.io/fon.jpg");
+   background-size: 100%;
 }
 
 .title_text{
