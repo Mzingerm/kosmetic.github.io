@@ -412,7 +412,7 @@
         border: 0.5px solid #666666;
         background: #FFF;
         margin: auto;
-        margin-top: 0px;
+        margin-top: 300;
     }
 
 
@@ -452,65 +452,66 @@
         height: 85%;
     }
 
-    .card1 {
-        width: 303px;
+
+.card1{
+    width: 303px;
         height: 463px;
         border: 1px solid #A7A7A7;
-        background: #FFF;
-        box-shadow: 0px 2px 12px 0px #36363633;
-        float: none;
-        margin: auto;
-        margin-top: 25px;
-    }
+            background: #FFF;
+            box-shadow: 0px 2px 12px 0px #36363633;
+            float: left;
+            margin: auto;
+            margin-left: 12%;
+            margin-bottom: 37px;
+}
 
-    .card2 {
-        width: 303px;
-        height: 463px;
-        border: 1px solid #A7A7A7;
-        background: #FFF;
-        box-shadow: 0px 2px 12px 0px #36363633;
-        float: none;
-        margin: auto;
-        margin-top: 40px;
-    }
+.card2 {
+    width: 303px;
+    height: 463px;
+    border: 1px solid #A7A7A7;
+    background: #FFF;
+    box-shadow: 0px 2px 12px 0px #36363633;
+    float: right;
+    margin: auto;
+    margin-right: 6%;
+}
 
-    .imagine4 {
-        width: 303px;
+.imagine4{
+    width: 303px;
         height: 287px;
-    }
+}
 
-    .imagine5 {
-        width: 303px;
+.imagine5{
+    width: 303px;
         height: 287px;
+        
+}
 
-    }
-
-    .zag1 {
-        width: 218px;
+.zag1{
+    width: 218px;
         height: 34px;
         color: #383230;
+            font-family: EB Garamond;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 20px;
+            margin-left: 10px;
+}
+.zag2{
+    color: #383230;
         font-family: EB Garamond;
         font-size: 16px;
         font-style: normal;
         font-weight: 400;
         line-height: 20px;
-        margin-left: 10px;
-    }
+     width: 218px;
+    height: 34px;
+    margin-left: 10px;
+}
 
-    .zag2 {
-        color: #383230;
-        font-family: EB Garamond;
-        font-size: 16px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 20px;
-        width: 218px;
-        height: 34px;
-        margin-left: 10px;
-    }
-
-    .pid_zag1 {
-        color: #8C8C8C;
+.pid_zag1{
+    color: #8C8C8C;
         font-family: Arial;
         font-size: 12px;
         font-style: normal;
@@ -521,32 +522,32 @@
         margin-top: 12px;
         margin-left: 10px;
         letter-spacing: 1px;
-    }
+}
 
-    .pid_zag2 {
-        color: #8C8C8C;
-        font-family: Arial;
-        font-size: 11px;
-        font-style: normal;
-        font-weight: 300;
-        line-height: 16px;
-        width: 189px;
-        height: 30px;
-        margin-top: 12px;
-        margin-left: 10px;
-        letter-spacing: 1px;
-    }
+.pid_zag2 {
+    color: #8C8C8C;
+    font-family:  Arial;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 16px;
+    width: 189px;
+    height: 30px;
+    margin-top: 12px;
+    margin-left: 10px;
+    letter-spacing: 1px;
+}
 
-    .priseandml1 {
-        width: 160px;
-        height: 12px;
-        margin-top: 12px;
-        margin-left: 10px;
-    }
+.priseandml1{
+    width: 160px;
+    height: 12px;
+    margin-top: 12px;
+    margin-left: 10px;
+}
 
-    .price1 {
-        width: 80px;
-        color: #000;
+.price1{
+    width: 80px;
+    color: #000;
         font-family: IBM Plex Mono;
         font-size: 12px;
         font-style: normal;
@@ -554,11 +555,11 @@
         line-height: 12px;
         text-transform: uppercase;
         float: left;
-    }
+}
 
-    .ml1 {
-        width: 58px;
-        color: #8C8C8C;
+.ml1{
+    width: 58px;
+    color: #8C8C8C;
         text-align: center;
         font-family: IBM Plex Mono;
         font-size: 12px;
@@ -567,61 +568,61 @@
         line-height: 12px;
         text-transform: uppercase;
         float: right;
+}
+
+.price2 {
+    width: 80px;
+    color: #000;
+    font-family: IBM Plex Mono;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 12px;
+    text-transform: uppercase;
+    float: left
+}
+
+.ml2 {
+    width: 40;
+    color: #8C8C8C;
+    text-align: center;
+    font-family: IBM Plex Mono;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 12px;
+    text-transform: uppercase;
+    float: right;
+}
+
+.priseandml2 {
+    width: 160px;
+    height: 12px;
+    margin-top: 12px;
+    margin-left: 10px;
+
+}
+
+.knopkanuz{
+    width: 100%;
+    height: 42px;
+    border-top: 1px solid #A7A7A7;
+    margin-top: 34px;
+}
+
+.knopkanuz:hover {
+
+    background: #dfdfdf;
+    transition: 1s;
+
+    .knopka2text {
+        color: #000000;
     }
+}
 
-    .price2 {
-        width: 80px;
-        color: #000;
-        font-family: IBM Plex Mono;
-        font-size: 12px;
-        font-style: normal;
-        font-weight: 500;
-        line-height: 12px;
-        text-transform: uppercase;
-        float: left
-    }
-
-    .ml2 {
-        width: 40;
-        color: #8C8C8C;
-        text-align: center;
-        font-family: IBM Plex Mono;
-        font-size: 12px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 12px;
-        text-transform: uppercase;
-        float: right;
-    }
-
-    .priseandml2 {
-        width: 160px;
-        height: 12px;
-        margin-top: 12px;
-        margin-left: 10px;
-
-    }
-
-    .knopkanuz {
-        width: 100%;
-        height: 42px;
-        border-top: 1px solid #A7A7A7;
-        margin-top: 34px;
-    }
-
-    .knopkanuz:hover {
-
-        background: #dfdfdf;
-        transition: 1s;
-
-        .knopka2text {
-            color: #000000;
-        }
-    }
-
-    .knopkanuztext {
-        width: 100%;
-        color: #000;
+.knopkanuztext{
+    width: 100%;
+    color: #000;
         text-align: center;
         font-family: Inter;
         font-size: 15px;
@@ -629,12 +630,13 @@
         font-weight: 400;
         line-height: 42px;
         margin: auto;
+    
+}
 
-    }
 
     .price {
         width: 370px;
-        height: 1880px;
+        height: 1615px;
         margin-left: 0px;
         margin-top: 40px;
     }
@@ -784,14 +786,18 @@
     }
 
      .text5 {
-          color: #515151;
-          font-family: Arial;
-          font-size: 13px;
-          font-style: normal;
-          text-align: center;
+        color: #515151;
+            text-align: none;
+            font-family: Arial;
+            font-size: 13px;
+            font-style: normal;
+            font-weight: 300;
+            line-height: 24px;
+            width: 320px;
+            letter-spacing: 0.5px;
       }
     
- h4 {
+.h4 {
           color: #000;
           font-family: EB Garamond;
           font-size: 28px;
@@ -814,7 +820,8 @@
      border: 0.5px solid #666666;
      background: #FFF;
      margin: auto;
-     margin-top: 0px;
+     margin-top: 10px;
+     float: none;
 
  }
 
