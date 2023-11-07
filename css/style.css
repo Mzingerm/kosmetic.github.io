@@ -425,7 +425,7 @@ color: #000000;
 
 .kartku0{
 
-    margin-right: 64px;
+margin-right: 64px;
 float: right;
 width: 625px;
 height: 100%;
@@ -438,7 +438,7 @@ height: 100%;
             background: #FFF;
             box-shadow: 0px 2px 12px 0px #36363633;
             float: left;
-            margin: auto;
+            
 }
 
 .card2 {
@@ -448,7 +448,7 @@ height: 100%;
     background: #FFF;
     box-shadow: 0px 2px 12px 0px #36363633;
     float: right;
-    margin: auto;
+  
 }
 
 .imagine4{
