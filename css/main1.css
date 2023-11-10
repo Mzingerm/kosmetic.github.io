@@ -1,56 +1,4 @@
-/************
-7. 959px
-************/
-
-
-
-/************
-9. 768px
-************/
-
-@media only screen and (max-width: 768px) {
-
-}
-
-/************
-10. 767px
-************/
-
-
-/************
-11. 575px
-************/
-
-@media only screen and (max-width: 575px) {
-
-}
-
-
-/************
-11. 539px
-************/
-
-
-
-/************
-12. 480px
-************/
-
 @media only screen and (max-width: 480px) {
-  
-}
-
-
-
-
-
-/************
-14. 400px
-************/
-
-@media only screen and (max-width: 400px) {
-
-  
 .main {
         width: 460px;
         margin: auto;
@@ -137,13 +85,14 @@
     }
 
     .cont2 {
-    color: #383230;
+        color: #383230;
         font-family: EB Garamond;
         font-size: 10px;
         font-style: normal;
         line-height: 20px;
         float: left;
-        letter-spacing: 0.5px;}
+        letter-spacing: 0.5px;
+    }
 
     .telephone {
         color: #383230;
@@ -157,11 +106,11 @@
     .title {
         width: 100%;
         height: 191px;
-       
+
     }
 
     .title_text {
-        width:220px;
+        width: 220px;
         height: 75px;
         margin-left: 10px;
         padding-top: 55px;
@@ -196,14 +145,16 @@
         width: 440px;
         height: 350px;
         margin: auto;
-        margin-top: 30px;
-        margin-bottom: 30px;
+        margin-top: 60px;
+        margin-bottom: 0px;
     }
 
     .textblok {
         width: 440px;
-        height:114px;
+        height: 105px;
         float: none;
+       
+        
     }
 
     .textblok1 {
@@ -223,9 +174,9 @@
     }
 
     .kyrs1 {
-      
-        width: 274px;
-        height: 55px;
+
+        width: 350px;
+        height: 30px;
         margin: auto;
         color: #000;
         text-align: center;
@@ -311,26 +262,25 @@
 
     .stati {
         width: 440px;
-        height: 700px;
+        height: 750px;
         margin: auto;
     }
 
     .stat1 {
         width: 440px;
-        height: 340px;
+        height: 360px;
         margin-left: 0px;
 
         float: none;
         margin-top: 30px
-    
     }
 
     .stat2 {
         width: 440px;
-            height: 340px;
-            margin-left: 0px;
-            float: none;
-            margin-top: 30px
+        height: 360px;
+        margin-left: 0px;
+        float: none;
+        margin-top: 30px
     }
 
 
@@ -340,7 +290,7 @@
 
     .image1 {
         width: 440px;
-        height: 246px;
+        height: 295px;
     }
 
 
@@ -372,20 +322,20 @@
 
     .image2 {
         width: 440px;
-        height: 246px;
+        height: 295px;
     }
 
     .aboutimage2 {
-         width: 500px;
+        width: 500px;
         height: 100px;
         margin-top: 10px;
     }
 
     .news {
         width: 440px;
-        height: 1140px;
+        height: 1145px;
         margin: auto;
-     
+
     }
 
     .newsblok {
@@ -406,7 +356,7 @@
         margin: auto;
         margin-top: 30px;
         position: relative;
-        top: 970px;
+        top: 990px;
     }
 
 
@@ -418,7 +368,7 @@
         font-style: normal;
         font-weight: 400;
         line-height: 42px;
-        
+
     }
 
     .text3 {
@@ -427,7 +377,7 @@
         font-size: 15px;
         font-style: normal;
         text-align: center;
-        }
+    }
 
     h2 {
         color: #000;
@@ -449,65 +399,66 @@
     }
 
 
-.card1{
-    width: 303px;
+    .card1 {
+        width: 303px;
         height: 463px;
         border: 1px solid #A7A7A7;
-            background: #FFF;
-            box-shadow: 0px 2px 12px 0px #36363633;
-            margin-left: 100px;
-            margin: 0px auto;
+        background: #FFF;
+        box-shadow: 0px 2px 12px 0px #36363633;
+        margin-left: 100px;
+        margin: 0px auto;
         float: none;
-}
+    }
 
-.card2 {
-    width: 303px;
-    height: 463px;
-    border: 1px solid #A7A7A7;
-    background: #FFF;
-    box-shadow: 0px 2px 12px 0px #36363633;
-    float: none;
-    margin: 0px auto;
-    margin-top: 20px;
-    
-}
+    .card2 {
+        width: 303px;
+        height: 463px;
+        border: 1px solid #A7A7A7;
+        background: #FFF;
+        box-shadow: 0px 2px 12px 0px #36363633;
+        float: none;
+        margin: 0px auto;
+        margin-top: 20px;
 
-.imagine4{
-    width: 303px;
+    }
+
+    .imagine4 {
+        width: 303px;
         height: 287px;
-}
+    }
 
-.imagine5{
-    width: 303px;
+    .imagine5 {
+        width: 303px;
         height: 287px;
-        
-}
 
-.zag1{
-    width: 218px;
+    }
+
+    .zag1 {
+        width: 218px;
         height: 34px;
         color: #383230;
-            font-family: EB Garamond;
-            font-size: 16px;
-            font-style: normal;
-            font-weight: 400;
-            line-height: 20px;
-            margin-left: 10px;
-}
-.zag2{
-    color: #383230;
         font-family: EB Garamond;
         font-size: 16px;
         font-style: normal;
         font-weight: 400;
         line-height: 20px;
-     width: 218px;
-    height: 34px;
-    margin-left: 10px;
-}
+        margin-left: 10px;
+    }
 
-.pid_zag1{
-    color: #8C8C8C;
+    .zag2 {
+        color: #383230;
+        font-family: EB Garamond;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 20px;
+        width: 218px;
+        height: 34px;
+        margin-left: 10px;
+    }
+
+    .pid_zag1 {
+        color: #8C8C8C;
         font-family: Arial;
         font-size: 12px;
         font-style: normal;
@@ -518,32 +469,32 @@
         margin-top: 12px;
         margin-left: 10px;
         letter-spacing: 1px;
-}
+    }
 
-.pid_zag2 {
-    color: #8C8C8C;
-    font-family:  Arial;
-    font-size: 11px;
-    font-style: normal;
-    font-weight: 300;
-    line-height: 16px;
-    width: 189px;
-    height: 30px;
-    margin-top: 12px;
-    margin-left: 10px;
-    letter-spacing: 1px;
-}
+    .pid_zag2 {
+        color: #8C8C8C;
+        font-family: Arial;
+        font-size: 11px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: 16px;
+        width: 189px;
+        height: 30px;
+        margin-top: 12px;
+        margin-left: 10px;
+        letter-spacing: 1px;
+    }
 
-.priseandml1{
-    width: 160px;
-    height: 12px;
-    margin-top: 12px;
-    margin-left: 10px;
-}
+    .priseandml1 {
+        width: 160px;
+        height: 12px;
+        margin-top: 12px;
+        margin-left: 10px;
+    }
 
-.price1{
-    width: 80px;
-    color: #000;
+    .price1 {
+        width: 80px;
+        color: #000;
         font-family: IBM Plex Mono;
         font-size: 12px;
         font-style: normal;
@@ -551,11 +502,11 @@
         line-height: 12px;
         text-transform: uppercase;
         float: left;
-}
+    }
 
-.ml1{
-    width: 58px;
-    color: #8C8C8C;
+    .ml1 {
+        width: 58px;
+        color: #8C8C8C;
         text-align: center;
         font-family: IBM Plex Mono;
         font-size: 12px;
@@ -564,61 +515,61 @@
         line-height: 12px;
         text-transform: uppercase;
         float: right;
-}
-
-.price2 {
-    width: 80px;
-    color: #000;
-    font-family: IBM Plex Mono;
-    font-size: 12px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 12px;
-    text-transform: uppercase;
-    float: left
-}
-
-.ml2 {
-    width: 40;
-    color: #8C8C8C;
-    text-align: center;
-    font-family: IBM Plex Mono;
-    font-size: 12px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 12px;
-    text-transform: uppercase;
-    float: right;
-}
-
-.priseandml2 {
-    width: 160px;
-    height: 12px;
-    margin-top: 12px;
-    margin-left: 10px;
-
-}
-
-.knopkanuz{
-    width: 100%;
-    height: 42px;
-    border-top: 1px solid #A7A7A7;
-    margin-top: 34px;
-}
-
-.knopkanuz:hover {
-
-    background: #dfdfdf;
-    transition: 1s;
-
-    .knopka2text {
-        color: #000000;
     }
-}
 
-.knopkanuztext{
-    width: 100%;
-    color: #000;
+    .price2 {
+        width: 80px;
+        color: #000;
+        font-family: IBM Plex Mono;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 12px;
+        text-transform: uppercase;
+        float: left
+    }
+
+    .ml2 {
+        width: 40;
+        color: #8C8C8C;
+        text-align: center;
+        font-family: IBM Plex Mono;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 12px;
+        text-transform: uppercase;
+        float: right;
+    }
+
+    .priseandml2 {
+        width: 160px;
+        height: 12px;
+        margin-top: 12px;
+        margin-left: 10px;
+
+    }
+
+    .knopkanuz {
+        width: 100%;
+        height: 42px;
+        border-top: 1px solid #A7A7A7;
+        margin-top: 34px;
+    }
+
+    .knopkanuz:hover {
+
+        background: #dfdfdf;
+        transition: 1s;
+
+        .knopka2text {
+            color: #000000;
+        }
+    }
+
+    .knopkanuztext {
+        width: 100%;
+        color: #000;
         text-align: center;
         font-family: Inter;
         font-size: 15px;
@@ -626,13 +577,13 @@
         font-weight: 400;
         line-height: 42px;
         margin: auto;
-    
-}
+
+    }
 
 
     .price {
         width: 440px;
-        height: 1615px;
+        height: 1620px;
         margin-left: 0px;
         margin-top: 40px;
     }
@@ -649,20 +600,23 @@
         margin: auto;
         text-align: center;
     }
-.imgm{
-    width: 260px;
-}
-.imgmm {
-    width: 260px;
-    margin: auto ;
-}
+
+    .imgm {
+        width: 260px;
+    }
+
+    .imgmm {
+        width: 260px;
+        margin: auto;
+    }
+
     .blokprice {
         height: 100%;
         width: 440px;
     }
 
     .right {
-        height:1215px;
+        height: 1215px;
         float: none;
         width: 440px;
     }
@@ -670,8 +624,8 @@
 
     .righleft {
         height: 606px;
-            width: 440px;
-            float: none;
+        width: 440px;
+        float: none;
     }
 
     .rightright {
@@ -683,8 +637,8 @@
 
     .right2 {
         height: 320px;
-            width: 440px;
-            float: none;
+        width: 440px;
+        float: none;
     }
 
 
@@ -709,7 +663,7 @@
         margin: auto;
     }
 
-   
+
     a {
         text-decoration: none;
     }
@@ -729,97 +683,99 @@
     }
 
 
- .stati2 {
-            width: 100%;
-            height: 700px;
+    .stati2 {
+        width: 440px;
+            height: 735px;
             margin: auto;
-            margin-top: 70px;
-        }
-    
- .stat3 {
-            width: 440px;
-            height: 330px;
-            margin-left: 8px;
-            float: none;
-            margin-top: 0px
-        }
-    
-   .image3 {
-    width: 440px;
-     }
+           
+    }
 
-   .image4 {
+    .stat3 {
     width: 440px;
-          }
+        height: 360px;
+        margin-left: 0px;
+    
+        float: none;
+        margin-top: 30px
+    }
 
-    .imgst{
+    .image3 {
+        width: 440px;
+    }
+
+    .image4 {
+        width: 440px;
+    }
+
+    .imgst {
         max-width: 100%;
     }
 
 
- .stat4 {
-            width: 440px;
-            height: 330px;
-            margin-left: 8px;
-            float: none;
-            margin-top: 25px
-        }
-
-        
- .propoz {
-  
+    .stat4 {
         width: 440px;
-            height: 1140px;
-            margin: auto;
-    }   
-
-       
-    
- .newsblok2 {
-           padding-top: 0%;
-           margin-left: 0px;
-           width: 100%;
-           float: none;
-           height: 120px;
-           margin-top: 20px;
-           text-align: center;
-     }
+            height: 360px;
+            margin-left: 0px;
+        
+            float: none;
+            margin-top: 30px
+    }
 
 
- .kartku_0 {
-            margin-right: 0px;
-                float: none;
-                width: 440px;
-                height: 941px;
-                margin-top: 40px;
-                margin: 0px auto;
-            }
+    .propoz {
 
-     .text5 {
+        width: 440px;
+        height: 1145px;
+        margin: auto;
+    }
+
+
+
+    .newsblok2 {
+        padding-top: 0%;
+        margin-left: 0px;
+        width: 100%;
+        float: none;
+        height: 120px;
+        margin-top: 20px;
+        text-align: center;
+    }
+
+
+    .kartku_0 {
+        margin-right: 0px;
+        float: none;
+        width: 440px;
+        height: 941px;
+        margin-top: 40px;
+        margin: 0px auto;
+    }
+
+    .text5 {
         color: #515151;
-            text-align: none;
-            font-family: Arial;
-            font-size: 13px;
-            font-style: normal;
-            font-weight: 300;
-            line-height: 24px;
-            width: 320px;
-            letter-spacing: 0.5px;
-      }
-    
-.h4 {
-          color: #000;
-          font-family: EB Garamond;
-          font-size: 28px;
-          font-style: normal;
-          line-height: 30px;
-          letter-spacing: 1px;
-          text-align: center;
-      }
+        text-align: none;
+        font-family: Arial;
+        font-size: 13px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: 24px;
+        width: 320px;
+        letter-spacing: 0.5px;
+    }
+
+    .h4 {
+        color: #000;
+        font-family: EB Garamond;
+        font-size: 28px;
+        font-style: normal;
+        line-height: 30px;
+        letter-spacing: 1px;
+        text-align: center;
+    }
 
 
-.knopka3 {
-    width: 153px;
+    .knopka3 {
+        width: 153px;
         height: 42px;
         border: 0.5px solid #666666;
         background: #FFF;
@@ -829,9 +785,9 @@
         top: 970px;
         float: none;
 
- }
+    }
 
-.contact {
+    .contact {
         width: 460px;
         height: 700px;
         background: #1C0700;
@@ -839,29 +795,31 @@
         margin: auto;
     }
 
-.contactout {
+    .contactout {
         width: 440px;
         height: 700px;
         margin: auto;
     }
 
- .werh {
+    .werh {
         width: 100%;
         height: 560px;
     }
 
     .werh1 {
         width: 440px;
-            height: 220px;
-            float: none;
-            margin-left: none;
-            margin: auto;
-            margin-top: 40px;
-        }
-.t_img {
+        height: 220px;
+        float: none;
+        margin-left: none;
+        margin: auto;
+        margin-top: 40px;
+    }
 
-    max-width: 100%;
-}
+    .t_img {
+
+        max-width: 100%;
+    }
+
     .werh1zag {
         color: #FFF;
         font-family: EB Garamond;
@@ -906,7 +864,7 @@
     }
 
     .werh1_text2 {
-    color: #E0DBD2;
+        color: #E0DBD2;
         font-family: Arial;
         font-size: 14px;
         font-style: normal;
@@ -919,11 +877,11 @@
 
     .werh3 {
         width: 440px;
-            height: 160px;
-            float: none;
-            margin-left: none;
-            margin: auto;
-            margin-top: 30px;
+        height: 160px;
+        float: none;
+        margin-left: none;
+        margin: auto;
+        margin-top: 30px;
     }
 
     .nuz {
@@ -941,13 +899,13 @@
 
     .n2023 {
         color: #D2D2D2;
-            font-family: Inter;
-            font-size: 10px;
-            font-style: normal;
-            height: 25px;
-            margin-left: 40px;
-            float: left;
-        }
+        font-family: Inter;
+        font-size: 10px;
+        font-style: normal;
+        height: 25px;
+        margin-left: 40px;
+        float: left;
+    }
 
     .n_2023 {
         color: #D2D2D2;
@@ -975,7 +933,7 @@
     h1 {
         color: #FFF;
         font-family: EB Garamond;
-        font-size:20px;
+        font-size: 20px;
         font-style: normal;
         font-weight: 600;
         line-height: 18px;
@@ -1013,47 +971,47 @@
         margin-top: 77px;
     }
 
- .linetop {
-     width: 460px;
-     height: 16px;
-     margin: auto;
-     margin-top: 30px;
- }
-
- .line1 {
-     width: 170px;
-     height: 0.5px;
-     background: #000;
-     float: left;
-     margin-top: 9px;
- }
-
- .star {
-     width: 16px;
-     height: 16px;
-     margin-left: 17px;
-     float: left;
- }
-
- .line2 {
-     width: 170px;
-     height: 0.5px;
-     background: #000;
-     float: right;
-     margin-top: 9px;
- }
-
- .linebottom {
-    width: 460px;
+    .linetop {
+        width: 460px;
         height: 16px;
         margin: auto;
         margin-top: 30px;
- }
+    }
+
+    .line1 {
+        width: 200px;
+        height: 0.5px;
+        background: #000;
+        float: left;
+        margin-top: 9px;
+    }
+
+    .star {
+        width: 20px;
+        height: 20px;
+        margin-left: 20px;
+        float: left;
+    }
+
+    .line2 {
+        width: 200px;
+        height: 0.5px;
+        background: #000;
+        float: right;
+        margin-top: 9px;
+    }
+
+    .linebottom {
+        width: 460px;
+        height: 16px;
+        margin: auto;
+        margin-top: 30px;
+    }
 
     .nomer {
-    
+
         height: 16px;
-      
+
         gap: 15px;
         width: 130px;
         height: 25px;
@@ -1080,4 +1038,5 @@
         line-height: 14px;
         margin-bottom: 0px;
     }
+
 }
