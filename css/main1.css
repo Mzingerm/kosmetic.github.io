@@ -1,19 +1,19 @@
 @media only screen and (max-width: 480px) {
 .main {
-        width: 470px;
+        width: 465px;
         margin: auto;
     }
 
     .fmenu {
         position: fixed;
-        width: 470px;
+        width: 465px;
         height: 50px;
         background: #FFF;
         top: -20px;
     }
 
     .menu {
-        width: 470px;
+        width: 465px;
         height: 50px;
         background: white;
         position: fixed;
@@ -295,7 +295,7 @@
 
 
     .aboutimage {
-        width: 470px;
+        width: 440px;
         height: 100px;
         margin-top: 10px;
     }
@@ -326,7 +326,7 @@
     }
 
     .aboutimage2 {
-        width: 500px;
+        width: 440px;
         height: 100px;
         margin-top: 10px;
     }
@@ -530,7 +530,7 @@
     }
 
     .ml2 {
-        width: 40;
+        width: 40px;
         color: #8C8C8C;
         text-align: center;
         font-family: IBM Plex Mono;
@@ -788,7 +788,7 @@
     }
 
     .contact {
-        width: 470px;
+        width: 465px;
         height: 700px;
         background: #1C0700;
         margin-top: 40px;
@@ -803,7 +803,7 @@
 
     .werh {
         width: 100%;
-        height: 470px;
+        height: 465px;
     }
 
     .werh1 {
@@ -972,7 +972,7 @@
     }
 
     .linetop {
-        width: 470px;
+        width: 465px;
         height: 16px;
         margin: auto;
         margin-top: 30px;
@@ -1002,7 +1002,7 @@
     }
 
     .linebottom {
-        width: 470px;
+        width: 465px;
         height: 16px;
         margin: auto;
         margin-top: 30px;
