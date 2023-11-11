@@ -1,19 +1,19 @@
-@media only screen and (max-width: 575px) {
+@media only screen and (max-width: 960px) {
     .main {
-        width: 560px;
+        width: 940px;
         margin: auto;
     }
 
     .fmenu {
         position: fixed;
-        width: 560px;
+        width: 940px;
         height: 50px;
         background: #FFF;
         top: -20px;
     }
 
     .menu {
-        width: 560px;
+        width: 940px;
         height: 50px;
         background: white;
         position: fixed;
@@ -42,7 +42,7 @@
     }
 
     .content {
-        width: 540px;
+        width: 925px;
         height: 50px;
         margin: 10px;
         position: fixed;
@@ -66,7 +66,7 @@
 
 
     .cont0 {
-        width: 540px;
+        width: 925px;
         height: 100%;
         float: left;
         margin-left: 0%;
@@ -142,7 +142,7 @@
     }
 
     .text_comp {
-        width: 540px;
+        width: 925px;
         height: 350px;
         margin: auto;
         margin-top: 60px;
@@ -150,7 +150,7 @@
     }
 
     .textblok {
-        width: 540px;
+        width: 925px;
         height: 105px;
         float: none;
 
@@ -158,7 +158,7 @@
     }
 
     .textblok1 {
-        width: 540px;
+        width: 925px;
         height: 105px;
         margin-top: 70px;
         float: none;
@@ -167,7 +167,7 @@
     .kyrs {
         height: 104px;
         margin-top: 30px;
-        width: 540px;
+        width: 925px;
         margin-bottom: 50px;
         margin: auto;
 
@@ -261,13 +261,13 @@
     }
 
     .stati {
-        width: 540px;
+        width: 925px;
         height: 750px;
         margin: auto;
     }
 
     .stat1 {
-        width: 540px;
+        width: 925px;
         height: 360px;
         margin-left: 0px;
 
@@ -276,7 +276,7 @@
     }
 
     .stat2 {
-        width: 540px;
+        width: 925px;
         height: 360px;
         margin-left: 0px;
         float: none;
@@ -289,13 +289,13 @@
     }
 
     .image1 {
-        width: 540px;
+        width: 925px;
         height: 295px;
     }
 
 
     .aboutimage {
-        width: 560px;
+        width: 940px;
         height: 100px;
         margin-top: 10px;
     }
@@ -311,7 +311,7 @@
 
     .text2 {
         color: #555;
-        width: 540px;
+        width: 925px;
         font-family: Arial;
         font-size: 11px;
         font-style: normal;
@@ -321,7 +321,7 @@
     }
 
     .image2 {
-        width: 540px;
+        width: 925px;
         height: 295px;
     }
 
@@ -332,7 +332,7 @@
     }
 
     .news {
-        width: 540px;
+        width: 925px;
         height: 1145px;
         margin: auto;
 
@@ -392,7 +392,7 @@
     .kartku0 {
         margin-right: 0px;
         float: none;
-        width: 540px;
+        width: 925px;
         height: 941px;
         margin-top: 40px;
         margin: 0px auto;
@@ -582,7 +582,7 @@
 
 
     .price {
-        width: 540px;
+        width: 925px;
         height: 1620px;
         margin-left: 0px;
         margin-top: 40px;
@@ -612,32 +612,32 @@
 
     .blokprice {
         height: 100%;
-        width: 540px;
+        width: 925px;
     }
 
     .right {
         height: 1215px;
         float: none;
-        width: 540px;
+        width: 925px;
     }
 
 
     .righleft {
         height: 606px;
-        width: 540px;
+        width: 925px;
         float: none;
     }
 
     .rightright {
         height: 606px;
-        width: 540px;
+        width: 925px;
         float: none;
     }
 
 
     .right2 {
         height: 320px;
-        width: 540px;
+        width: 925px;
         float: none;
     }
 
@@ -670,7 +670,7 @@
 
 
     .left {
-        width: 540px;
+        width: 925px;
         float: none;
     }
 
@@ -684,14 +684,14 @@
 
 
     .stati2 {
-        width: 540px;
+        width: 925px;
         height: 735px;
         margin: auto;
 
     }
 
     .stat3 {
-        width: 540px;
+        width: 925px;
         height: 360px;
         margin-left: 0px;
 
@@ -700,11 +700,11 @@
     }
 
     .image3 {
-        width: 540px;
+        width: 925px;
     }
 
     .image4 {
-        width: 540px;
+        width: 925px;
     }
 
     .imgst {
@@ -713,7 +713,7 @@
 
 
     .stat4 {
-        width: 540px;
+        width: 925px;
         height: 360px;
         margin-left: 0px;
 
@@ -724,7 +724,7 @@
 
     .propoz {
 
-        width: 540px;
+        width: 925px;
         height: 1145px;
         margin: auto;
     }
@@ -745,7 +745,7 @@
     .kartku_0 {
         margin-right: 0px;
         float: none;
-        width: 540px;
+        width: 925px;
         height: 941px;
         margin-top: 40px;
         margin: 0px auto;
@@ -788,7 +788,7 @@
     }
 
     .contact {
-        width: 560px;
+        width: 940px;
         height: 700px;
         background: #1C0700;
         margin-top: 40px;
@@ -796,18 +796,18 @@
     }
 
     .contactout {
-        width: 540px;
+        width: 925px;
         height: 700px;
         margin: auto;
     }
 
     .werh {
         width: 100%;
-        height: 560px;
+        height: 940px;
     }
 
     .werh1 {
-        width: 540px;
+        width: 925px;
         height: 220px;
         float: none;
         margin-left: none;
@@ -837,13 +837,13 @@
         font-size: 28px;
         font-style: normal;
         line-height: 25px;
-        width: 540px;
+        width: 925px;
         margin-top: 15px;
     }
 
 
     .werh2 {
-        width: 540px;
+        width: 925px;
         height: 100px;
         float: none;
         margin-left: none;
@@ -876,7 +876,7 @@
     }
 
     .werh3 {
-        width: 540px;
+        width: 925px;
         height: 160px;
         float: none;
         margin-left: none;
@@ -962,7 +962,7 @@
 
     .mainblokcard {
 
-        width: 540px;
+        width: 925px;
         height: 463px;
         margin-left: 64px;
     }
@@ -972,7 +972,7 @@
     }
 
     .linetop {
-        width: 560px;
+        width: 940px;
         height: 16px;
         margin: auto;
         margin-top: 30px;
@@ -1002,7 +1002,7 @@
     }
 
     .linebottom {
-        width: 560px;
+        width: 940px;
         height: 16px;
         margin: auto;
         margin-top: 30px;
