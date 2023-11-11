@@ -267,17 +267,17 @@
           }
     
           .stat1 {
-              width: 500px;
-              height: 450px;
-              margin-left: 64px;
+              width: 430px;
+              height: 410px;
+              margin-left: 0px;
               float: left;
               margin-top: 80px
           }
     
           .stat2 {
-              width: 500px;
-              height: 450px;
-              margin-right: 64px;
+              width: 430px;
+              height: 410px;
+              margin-right: 0px;
               float: right;
               margin-top: 80px
           }
@@ -287,15 +287,15 @@
           }
     
           .image1 {
-              width: 500px;
-              height: 333px;
+              width: 430px;
+             
               transition: 1s;
           }
     
     
     
           .aboutimage {
-              width: 500px;
+              width: 430px;
               height: 100px;
               margin-top: 20px;
           }
@@ -321,12 +321,12 @@
           }
     
           .image2 {
-              width: 500px;
-              height: 333px;
+              width: 430px;
+             
           }
     
           .aboutimage2 {
-              width: 500px;
+              width: 430px;
               height: 100px;
               margin-top: 20px;
           }
