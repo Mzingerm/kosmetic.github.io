@@ -269,7 +269,7 @@
           .stat1 {
               width: 430px;
               height: 410px;
-              margin-left: 0px;
+              margin-left: 10px;
               float: left;
               margin-top: 80px
           }
@@ -277,7 +277,7 @@
           .stat2 {
               width: 430px;
               height: 410px;
-              margin-right: 0px;
+              margin-right: 10px;
               float: right;
               margin-top: 80px
           }
