@@ -52,20 +52,20 @@
 
   
 .main {
-        width: 460px;
+        width: 390px;
         margin: auto;
     }
 
     .fmenu {
         position: fixed;
-        width: 460px;
+        width: 390px;
         height: 50px;
         background: #FFF;
         top: -20px;
     }
 
     .menu {
-        width: 460px;
+        width: 390px;
         height: 50px;
         background: white;
         position: fixed;
@@ -94,7 +94,7 @@
     }
 
     .content {
-        width: 440px;
+        width: 370px;
         height: 50px;
         margin: 10px;
         position: fixed;
@@ -118,7 +118,7 @@
 
 
     .cont0 {
-        width: 440px;
+        width: 370px;
         height: 100%;
         float: left;
         margin-left: 0%;
@@ -193,7 +193,7 @@
     }
 
     .text_comp {
-        width: 440px;
+        width: 370px;
         height: 350px;
         margin: auto;
         margin-top: 30px;
@@ -201,13 +201,13 @@
     }
 
     .textblok {
-        width: 440px;
+        width: 370px;
         height:114px;
         float: none;
     }
 
     .textblok1 {
-        width: 440px;
+        width: 370px;
         height: 105px;
         margin-top: 70px;
         float: none;
@@ -216,7 +216,7 @@
     .kyrs {
         height: 104px;
         margin-top: 30px;
-        width: 440px;
+        width: 370px;
         margin-bottom: 50px;
         margin: auto;
 
@@ -310,13 +310,13 @@
     }
 
     .stati {
-        width: 440px;
+        width: 370px;
         height: 700px;
         margin: auto;
     }
 
     .stat1 {
-        width: 440px;
+        width: 370px;
         height: 340px;
         margin-left: 0px;
 
@@ -326,7 +326,7 @@
     }
 
     .stat2 {
-        width: 440px;
+        width: 370px;
             height: 340px;
             margin-left: 0px;
             float: none;
@@ -339,13 +339,13 @@
     }
 
     .image1 {
-        width: 440px;
+        width: 370px;
         height: 246px;
     }
 
 
     .aboutimage {
-        width: 460px;
+        width: 390px;
         height: 100px;
         margin-top: 10px;
     }
@@ -361,7 +361,7 @@
 
     .text2 {
         color: #555;
-        width: 440px;
+        width: 370px;
         font-family: Arial;
         font-size: 11px;
         font-style: normal;
@@ -371,7 +371,7 @@
     }
 
     .image2 {
-        width: 440px;
+        width: 370px;
         height: 246px;
     }
 
@@ -382,7 +382,7 @@
     }
 
     .news {
-        width: 440px;
+        width: 370px;
         height: 1140px;
         margin: auto;
      
@@ -442,7 +442,7 @@
     .kartku0 {
         margin-right: 0px;
         float: none;
-        width: 440px;
+        width: 370px;
         height: 941px;
         margin-top: 40px;
         margin: 0px auto;
@@ -631,10 +631,11 @@
 
 
     .price {
-        width: 440px;
+        width: 370px;
         height: 1615px;
         margin-left: 0px;
         margin-top: 40px;
+        margin: auto;
     }
 
     h3 {
@@ -658,32 +659,32 @@
 }
     .blokprice {
         height: 100%;
-        width: 440px;
+        width: 370px;
     }
 
     .right {
         height:1215px;
         float: none;
-        width: 440px;
+        width: 370px;
     }
 
 
     .righleft {
         height: 606px;
-            width: 440px;
+            width: 370px;
             float: none;
     }
 
     .rightright {
         height: 606px;
-        width: 440px;
+        width: 370px;
         float: none;
     }
 
 
     .right2 {
         height: 320px;
-            width: 440px;
+            width: 370px;
             float: none;
     }
 
@@ -716,7 +717,7 @@
 
 
     .left {
-        width: 440px;
+        width: 370px;
         float: none;
     }
 
@@ -737,7 +738,7 @@
         }
     
  .stat3 {
-            width: 440px;
+            width: 370px;
             height: 330px;
             margin-left: 8px;
             float: none;
@@ -745,11 +746,11 @@
         }
     
    .image3 {
-    width: 440px;
+    width: 370px;
      }
 
    .image4 {
-    width: 440px;
+    width: 370px;
           }
 
     .imgst{
@@ -758,7 +759,7 @@
 
 
  .stat4 {
-            width: 440px;
+            width: 370px;
             height: 330px;
             margin-left: 8px;
             float: none;
@@ -768,7 +769,7 @@
         
  .propoz {
   
-        width: 440px;
+        width: 370px;
             height: 1140px;
             margin: auto;
     }   
@@ -789,7 +790,7 @@
  .kartku_0 {
             margin-right: 0px;
                 float: none;
-                width: 440px;
+                width: 370px;
                 height: 941px;
                 margin-top: 40px;
                 margin: 0px auto;
@@ -832,7 +833,7 @@
  }
 
 .contact {
-        width: 460px;
+        width: 390px;
         height: 700px;
         background: #1C0700;
         margin-top: 40px;
@@ -840,18 +841,18 @@
     }
 
 .contactout {
-        width: 440px;
+        width: 370px;
         height: 700px;
         margin: auto;
     }
 
  .werh {
         width: 100%;
-        height: 560px;
+        height: 390px;
     }
 
     .werh1 {
-        width: 440px;
+        width: 370px;
             height: 220px;
             float: none;
             margin-left: none;
@@ -879,13 +880,13 @@
         font-size: 28px;
         font-style: normal;
         line-height: 25px;
-        width: 440px;
+        width: 370px;
         margin-top: 15px;
     }
 
 
     .werh2 {
-        width: 440px;
+        width: 370px;
         height: 100px;
         float: none;
         margin-left: none;
@@ -918,7 +919,7 @@
     }
 
     .werh3 {
-        width: 440px;
+        width: 370px;
             height: 160px;
             float: none;
             margin-left: none;
@@ -1004,7 +1005,7 @@
 
     .mainblokcard {
 
-        width: 440px;
+        width: 370px;
         height: 463px;
         margin-left: 64px;
     }
@@ -1014,7 +1015,7 @@
     }
 
  .linetop {
-     width: 460px;
+     width: 390px;
      height: 16px;
      margin: auto;
      margin-top: 30px;
@@ -1044,7 +1045,7 @@
  }
 
  .linebottom {
-    width: 460px;
+    width: 390px;
         height: 16px;
         margin: auto;
         margin-top: 30px;

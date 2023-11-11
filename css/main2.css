@@ -1,19 +1,19 @@
-@media only screen and (max-width: 480px) {
-.main {
-        width: 470px;
+@media only screen and (max-width: 575px) {
+    .main {
+        width: 560px;
         margin: auto;
     }
 
     .fmenu {
         position: fixed;
-        width: 470px;
+        width: 560px;
         height: 50px;
         background: #FFF;
         top: -20px;
     }
 
     .menu {
-        width: 470px;
+        width: 560px;
         height: 50px;
         background: white;
         position: fixed;
@@ -153,8 +153,8 @@
         width: 440px;
         height: 105px;
         float: none;
-       
-        
+
+
     }
 
     .textblok1 {
@@ -295,7 +295,7 @@
 
 
     .aboutimage {
-        width: 470px;
+        width: 560px;
         height: 100px;
         margin-top: 10px;
     }
@@ -685,16 +685,16 @@
 
     .stati2 {
         width: 440px;
-            height: 735px;
-            margin: auto;
-           
+        height: 735px;
+        margin: auto;
+
     }
 
     .stat3 {
-    width: 440px;
+        width: 440px;
         height: 360px;
         margin-left: 0px;
-    
+
         float: none;
         margin-top: 30px
     }
@@ -714,11 +714,11 @@
 
     .stat4 {
         width: 440px;
-            height: 360px;
-            margin-left: 0px;
-        
-            float: none;
-            margin-top: 30px
+        height: 360px;
+        margin-left: 0px;
+
+        float: none;
+        margin-top: 30px
     }
 
 
@@ -788,7 +788,7 @@
     }
 
     .contact {
-        width: 470px;
+        width: 560px;
         height: 700px;
         background: #1C0700;
         margin-top: 40px;
@@ -803,7 +803,7 @@
 
     .werh {
         width: 100%;
-        height: 470px;
+        height: 560px;
     }
 
     .werh1 {
@@ -972,7 +972,7 @@
     }
 
     .linetop {
-        width: 470px;
+        width: 560px;
         height: 16px;
         margin: auto;
         margin-top: 30px;
@@ -989,7 +989,7 @@
     .star {
         width: 20px;
         height: 20px;
-        margin-left: 10px;
+        margin-left: 25px;
         float: left;
     }
 
@@ -1002,7 +1002,7 @@
     }
 
     .linebottom {
-        width: 470px;
+        width: 560px;
         height: 16px;
         margin: auto;
         margin-top: 30px;
