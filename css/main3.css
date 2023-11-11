@@ -244,7 +244,7 @@
 
     .slogan {
         width: 100%;
-        height: 40px;
+        height: 50px;
         background: #E9E9E9
     }
 
@@ -252,7 +252,7 @@
         color: #000;
         text-align: center;
         font-family: EB Garamond;
-        font-size: 11px;
+        font-size: 14px;
         font-style: italic;
         font-weight: 0;
         line-height: 40px;
