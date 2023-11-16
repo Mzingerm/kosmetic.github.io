@@ -253,7 +253,7 @@
 
           .stati {
               width: 925px;
-              height: 530px;
+              height: 400px;
               margin: 0px auto;
               margin-top: 50px;
           }
@@ -322,256 +322,245 @@
               margin-top: 6px;
           }
 
-    .news {
-        width: 925px;
-        height: 1145px;
-        margin: auto;
+           .news {
+               width: 950px;
+               height: 650px;
+               margin: auto;
+    
+           }
+    
+           .newsblok {
+               padding-top: 0%;
+               margin-left: 0px;
+               width: 100%;
+               float: none;
+               height: 110px;
+               margin-top: 20px;
+               text-align: center;
+           }
+    
+           .knopka2 {
+               width: 153px;
+               height: 42px;
+               border: 0.5px solid #666666;
+               background: #FFF;
+               margin: auto;
+               margin-top: 30px;
+               position: relative;
+               top: 500px;
+           }
+    
+    
+           .knopka2text {
+               color: #000;
+               text-align: center;
+               font-family: EB Garamond;
+               font-size: 15px;
+               font-style: normal;
+               font-weight: 400;
+               line-height: 42px;
+    
+           }
+    
+           .text3 {
+               color: #515151;
+               font-family: Arial;
+               font-size: 15px;
+               font-style: normal;
+               text-align: center;
+           }
+    
+           h2 {
+               color: #000;
+               font-family: EB Garamond;
+               font-size: 28px;
+               font-style: normal;
+               line-height: 30px;
+               letter-spacing: 2.5px;
+               text-align: center;
+           }
+    
+           .kartku0 {
+               margin-right: 0px;
+               float: none;
+               width: 630px;
+               height: 470px;
+               margin-top: 20px;
+               margin: 0px auto;
+           }
+    
+    
+           .card1 {
+               width: 303px;
+               height: 463px;
+               border: 1px solid #A7A7A7;
+               background: #FFF;
+               box-shadow: 0px 2px 12px 0px #36363633;
+               margin-left: 100px;
+               margin: 0px auto;
+               float: right;
+           }
+    
+           .card2 {
+               width: 303px;
+               height: 463px;
+               border: 1px solid #A7A7A7;
+               background: #FFF;
+               box-shadow: 0px 2px 12px 0px #36363633;
+               float: left;
+               margin: 0px auto;
+               margin-top: 0px;
+    
+           }
+    
+           .imagine4 {
+               width: 303px;
+               height: 287px;
+           }
+    
+           .imagine5 {
+               width: 303px;
+               height: 287px;
+    
+           }
+    
+           .zag1 {
+               width: 218px;
+               height: 34px;
+               color: #383230;
+               font-family: EB Garamond;
+               font-size: 16px;
+               font-style: normal;
+               font-weight: 400;
+               line-height: 20px;
+               margin-left: 10px;
+           }
+    
+           .zag2 {
+               color: #383230;
+               font-family: EB Garamond;
+               font-size: 16px;
+               font-style: normal;
+               font-weight: 400;
+               line-height: 20px;
+               width: 218px;
+               height: 34px;
+               margin-left: 10px;
+           }
+    
+           .pid_zag1 {
+               color: #8C8C8C;
+               font-family: Arial;
+               font-size: 12px;
+               font-style: normal;
+               font-weight: 300;
+               line-height: 16px;
+               width: 189px;
+               height: 30px;
+               margin-top: 12px;
+               margin-left: 10px;
+               letter-spacing: 1px;
+           }
+    
+           .pid_zag2 {
+               color: #8C8C8C;
+               font-family: Arial;
+               font-size: 11px;
+               font-style: normal;
+               font-weight: 300;
+               line-height: 16px;
+               width: 189px;
+               height: 30px;
+               margin-top: 12px;
+               margin-left: 10px;
+               letter-spacing: 1px;
+           }
+    
+           .priseandml1 {
+               width: 160px;
+               height: 12px;
+               margin-top: 12px;
+               margin-left: 10px;
+           }
+    
+           .price1 {
+               width: 80px;
+               color: #000;
+               font-family: IBM Plex Mono;
+               font-size: 12px;
+               font-style: normal;
+               font-weight: 500;
+               line-height: 12px;
+               text-transform: uppercase;
+               float: left;
+           }
+    
+           .ml1 {
+               width: 58px;
+               color: #8C8C8C;
+               text-align: center;
+               font-family: IBM Plex Mono;
+               font-size: 12px;
+               font-style: normal;
+               font-weight: 400;
+               line-height: 12px;
+               text-transform: uppercase;
+               float: right;
+           }
+    
+           .price2 {
+               width: 80px;
+               color: #000;
+               font-family: IBM Plex Mono;
+               font-size: 12px;
+               font-style: normal;
+               font-weight: 500;
+               line-height: 12px;
+               text-transform: uppercase;
+               float: left
+           }
+    
+           .ml2 {
+               width: 40px;
+               color: #8C8C8C;
+               text-align: center;
+               font-family: IBM Plex Mono;
+               font-size: 12px;
+               font-style: normal;
+               font-weight: 400;
+               line-height: 12px;
+               text-transform: uppercase;
+               float: right;
+           }
+    
+           .priseandml2 {
+               width: 160px;
+               height: 12px;
+               margin-top: 12px;
+               margin-left: 10px;
+    
+           }
+    
+           .knopkanuz {
+               width: 100%;
+               height: 42px;
+               border-top: 1px solid #A7A7A7;
+               margin-top: 34px;
+           }
 
-    }
-
-    .newsblok {
-        padding-top: 0%;
-        margin-left: 0px;
-        width: 100%;
-        float: none;
-        height: 120px;
-        margin-top: 20px;
-        text-align: center;
-    }
-
-    .knopka2 {
-        width: 153px;
-        height: 42px;
-        border: 0.5px solid #666666;
-        background: #FFF;
-        margin: auto;
-        margin-top: 30px;
-        position: relative;
-        top: 990px;
-    }
-
-
-    .knopka2text {
-        color: #000;
-        text-align: center;
-        font-family: EB Garamond;
-        font-size: 15px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 42px;
-
-    }
-
-    .text3 {
-        color: #515151;
-        font-family: Arial;
-        font-size: 15px;
-        font-style: normal;
-        text-align: center;
-    }
-
-    h2 {
-        color: #000;
-        font-family: EB Garamond;
-        font-size: 28px;
-        font-style: normal;
-        line-height: 30px;
-        letter-spacing: 2.5px;
-        text-align: center;
-    }
-
-    .kartku0 {
-        margin-right: 0px;
-        float: none;
-        width: 925px;
-        height: 941px;
-        margin-top: 40px;
-        margin: 0px auto;
-    }
-
-
-    .card1 {
-        width: 303px;
-        height: 463px;
-        border: 1px solid #A7A7A7;
-        background: #FFF;
-        box-shadow: 0px 2px 12px 0px #36363633;
-        margin-left: 100px;
-        margin: 0px auto;
-        float: none;
-    }
-
-    .card2 {
-        width: 303px;
-        height: 463px;
-        border: 1px solid #A7A7A7;
-        background: #FFF;
-        box-shadow: 0px 2px 12px 0px #36363633;
-        float: none;
-        margin: 0px auto;
-        margin-top: 20px;
-
-    }
-
-    .imagine4 {
-        width: 303px;
-        height: 287px;
-    }
-
-    .imagine5 {
-        width: 303px;
-        height: 287px;
-
-    }
-
-    .zag1 {
-        width: 218px;
-        height: 34px;
-        color: #383230;
-        font-family: EB Garamond;
-        font-size: 16px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 20px;
-        margin-left: 10px;
-    }
-
-    .zag2 {
-        color: #383230;
-        font-family: EB Garamond;
-        font-size: 16px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 20px;
-        width: 218px;
-        height: 34px;
-        margin-left: 10px;
-    }
-
-    .pid_zag1 {
-        color: #8C8C8C;
-        font-family: Arial;
-        font-size: 12px;
-        font-style: normal;
-        font-weight: 300;
-        line-height: 16px;
-        width: 189px;
-        height: 30px;
-        margin-top: 12px;
-        margin-left: 10px;
-        letter-spacing: 1px;
-    }
-
-    .pid_zag2 {
-        color: #8C8C8C;
-        font-family: Arial;
-        font-size: 11px;
-        font-style: normal;
-        font-weight: 300;
-        line-height: 16px;
-        width: 189px;
-        height: 30px;
-        margin-top: 12px;
-        margin-left: 10px;
-        letter-spacing: 1px;
-    }
-
-    .priseandml1 {
-        width: 160px;
-        height: 12px;
-        margin-top: 12px;
-        margin-left: 10px;
-    }
-
-    .price1 {
-        width: 80px;
-        color: #000;
-        font-family: IBM Plex Mono;
-        font-size: 12px;
-        font-style: normal;
-        font-weight: 500;
-        line-height: 12px;
-        text-transform: uppercase;
-        float: left;
-    }
-
-    .ml1 {
-        width: 58px;
-        color: #8C8C8C;
-        text-align: center;
-        font-family: IBM Plex Mono;
-        font-size: 12px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 12px;
-        text-transform: uppercase;
-        float: right;
-    }
-
-    .price2 {
-        width: 80px;
-        color: #000;
-        font-family: IBM Plex Mono;
-        font-size: 12px;
-        font-style: normal;
-        font-weight: 500;
-        line-height: 12px;
-        text-transform: uppercase;
-        float: left
-    }
-
-    .ml2 {
-        width: 40;
-        color: #8C8C8C;
-        text-align: center;
-        font-family: IBM Plex Mono;
-        font-size: 12px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 12px;
-        text-transform: uppercase;
-        float: right;
-    }
-
-    .priseandml2 {
-        width: 160px;
-        height: 12px;
-        margin-top: 12px;
-        margin-left: 10px;
-
-    }
-
-    .knopkanuz {
-        width: 100%;
-        height: 42px;
-        border-top: 1px solid #A7A7A7;
-        margin-top: 34px;
-    }
-
-    .knopkanuz:hover {
-
-        background: #dfdfdf;
-        transition: 1s;
-
-        .knopka2text {
-            color: #000000;
-        }
-    }
-
-    .knopkanuztext {
-        width: 100%;
-        color: #000;
-        text-align: center;
-        font-family: Inter;
-        font-size: 15px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 42px;
-        margin: auto;
-
-    }
-
-
+    
+           .knopkanuztext {
+               width: 100%;
+               color: #000;
+               text-align: center;
+               font-family: Inter;
+               font-size: 15px;
+               font-style: normal;
+               font-weight: 400;
+               line-height: 42px;
+               margin: auto;
+    
+           }
     .price {
         width: 925px;
         height: 1620px;
@@ -682,12 +671,11 @@
     }
 
     .stat3 {
-        width: 925px;
-        height: 360px;
+    width: 430px;
+        height: 300px;
         margin-left: 0px;
-
-        float: none;
-        margin-top: 30px
+        float: left;
+        margin-top: 0px
     }
 
     .image3 {
@@ -695,7 +683,7 @@
     }
 
     .image4 {
-        width: 925px;
+        width: 500px;
     }
 
     .imgst {
@@ -704,46 +692,45 @@
 
 
     .stat4 {
-        width: 925px;
-        height: 360px;
-        margin-left: 0px;
-
-        float: none;
-        margin-top: 30px
+        width: 430px;
+            height: 300px;
+            margin-left: 0px;
+            float: right;
+            margin-top: 0px
     }
 
 
     .propoz {
 
-        width: 925px;
-        height: 1145px;
-        margin: auto;
+        width: 950px;
+            height: 650px;
+            margin: auto;
     }
 
 
 
     .newsblok2 {
         padding-top: 0%;
-        margin-left: 0px;
-        width: 100%;
-        float: none;
-        height: 120px;
-        margin-top: 20px;
-        text-align: center;
+            margin-left: 0px;
+            width: 100%;
+            float: none;
+            height: 110px;
+            margin-top: 20px;
+            text-align: center;
     }
 
 
     .kartku_0 {
-        margin-right: 0px;
+    margin-right: 0px;
         float: none;
-        width: 925px;
-        height: 941px;
-        margin-top: 40px;
+        width: 630px;
+        height: 470px;
+        margin-top: 20px;
         margin: 0px auto;
     }
 
     .text5 {
-        color: #515151;
+        color: #262626;
         text-align: none;
         font-family: Arial;
         font-size: 13px;
@@ -767,14 +754,13 @@
 
     .knopka3 {
         width: 153px;
-        height: 42px;
-        border: 0.5px solid #666666;
-        background: #FFF;
-        margin: auto;
-        margin-top: 30px;
-        position: relative;
-        top: 970px;
-        float: none;
+            height: 42px;
+            border: 0.5px solid #666666;
+            background: #FFF;
+            margin: auto;
+            margin-top: 30px;
+            position: relative;
+            top: 500px;
 
     }
 
