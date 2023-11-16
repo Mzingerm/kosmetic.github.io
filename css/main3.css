@@ -19,27 +19,6 @@
         position: fixed;
     }
 
-    .menu:hover {
-
-        background: #937F61;
-        transition: 1s;
-
-        .cont1 {
-            color: #FFF;
-        }
-
-        .cont2 {
-            color: #FFF;
-        }
-
-        .logo {
-            color: #FFF;
-        }
-
-        .telephone {
-            color: #FFF;
-        }
-    }
 
     .content {
         width: 925px;
@@ -105,173 +84,186 @@
 
     .title {
         width: 100%;
-        height: 191px;
+        height: 430px;
 
     }
 
     .title_text {
-        width: 220px;
-        height: 75px;
-        margin-left: 10px;
+        width: 400px;
+        height: 65px;
+        margin-left: 40px;
         padding-top: 55px;
         position: relative;
-        top: -200px;
+        top: -440px;
     }
 
+ h1 {
+            color: #FFF;
+            font-family: EB Garamond;
+            font-size: 32px;
+            font-style: normal;
+            font-weight: 600;
+            line-height: 35px;
+            letter-spacing: 0.5px;
+        }
+
     .title_knopka {
-        width: 114px;
-        height: 22px;
+        width: 240px;
+        height: 36px;
         margin-top: 14px;
         border: 1.5px solid #FFF;
     }
-
-
 
     .knopka_text {
         color: #FFF;
         text-align: center;
         font-family: EB Garamond;
-        font-size: 9px;
+        font-size: 17px;
         font-style: normal;
         font-weight: 600;
         line-height: 14px;
-        margin-top: 3px;
-        margin-bottom: 3px;
+        margin-top: 10px;
+        margin-bottom: 0px;
         margin-left: 1px;
         margin-right: 1px;
     }
 
-    .text_comp {
-        width: 925px;
-        height: 350px;
-        margin: auto;
-        margin-top: 60px;
-        margin-bottom: 0px;
-    }
+ .text_comp {
+     width: 925px;
+     height: 170px;
+     margin: auto;
+     margin-top: 50px;
+     margin-bottom: 0px;
+     
+ }
 
-    .textblok {
-        width: 925px;
-        height: 105px;
-        float: none;
+ .textblok {
+     width: 430px;
+     height: 170px;
+     float: left;
+     margin: auto;
+ }
 
+ .textblok1 {
+     width: 430px;
+     height: 170px;
+     margin-top: 18px;
+     float: right;
+     margin: auto;
+ }
 
-    }
+ .kyrs {
+     height: 180px;
+     margin-top: 25px;
+     width: 420px;
+     margin-bottom: 0px;
+     margin: auto;
 
-    .textblok1 {
-        width: 925px;
-        height: 105px;
-        margin-top: 70px;
-        float: none;
-    }
+ }
 
-    .kyrs {
-        height: 104px;
-        margin-top: 30px;
-        width: 925px;
-        margin-bottom: 50px;
-        margin: auto;
+ .kyrs1 {
 
-    }
+     width: 420px;
+     height: 30px;
+     margin: auto;
+     color: #000;
+     text-align: center;
+     font-family: EB Garamond;
+     font-size: 27px;
+     font-style: normal;
+     font-weight: 400;
+     line-height: 58px;
 
-    .kyrs1 {
+ }
 
-        width: 350px;
-        height: 30px;
-        margin: auto;
-        color: #000;
-        text-align: center;
-        font-family: EB Garamond;
-        font-size: 26px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 25px;
+ .kyrs2 {
+     font-family: Arial;
+     width: 410px;
+     height: 50px;
+     color: #000;
+     font-size: 16px;
+     line-height: 20px;
+     margin: auto;
+     margin-top: 25px;
+     margin-bottom: 25px;
+     text-align: center;
+     letter-spacing: 1px;
+ }
 
-    }
+ .forma {
+     background: #383230;
+     width: 373px;
+     height: 40px;
+     margin: auto;
+ }
 
-    .kyrs2 {
-        font-family: Arial;
-        width: 340px;
-        height: 33px;
-        color: #000;
-        font-size: 12px;
-        line-height: 15px;
-        margin: auto;
-        margin-top: 10px;
-        margin-bottom: 10px;
-        text-align: center;
-        letter-spacing: 0.5px;
-    }
+ p {
 
-    .forma {
-        background: #383230;
-        width: 360px;
-        height: 60px;
-        margin: auto;
-    }
+     color: #000;
+     text-align: center;
+     font-family: EB Garamond;
+     font-size: 18px;
+     font-style: normal;
+     font-weight: 400;
+     letter-spacing: 1px;
 
-    p {
-
-        color: #000;
-        text-align: center;
-        font-family: EB Garamond;
-        font-size: 16px;
-        font-style: normal;
-        letter-spacing: 1px;
-
-    }
-
+ }
 
     .textblok_knopka1 {
         color: #000000;
         text-align: center;
         font-family: EB Garamond;
-        font-size: 9px;
+        font-size: 14px;
         font-style: normal;
-        margin-top: 3px;
-        margin-bottom: 3px;
+        margin-top: 8px;
+        margin-bottom: 0px;
         margin-left: 1px;
         margin-right: 1px;
     }
 
     .textblok_knopka {
-        width: 114px;
-        height: 22px;
-        margin-top: 14px;
+        width: 140px;
+        height: 32px;
+        margin-top: 13px;
         border: 0.5px solid #313131;
         margin: auto;
     }
 
 
-    .slogan {
-        width: 100%;
-        height: 50px;
-        background: #E9E9E9
-    }
-
-    .slogan_text {
-        color: #000;
-        text-align: center;
-        font-family: EB Garamond;
-        font-size: 20px;
-        font-style: italic;
-        font-weight: 0;
-        line-height: 40px;
-        margin-left: 0px;
-        letter-spacing: 0.5px;
+        .slogan {
+            width: 100%;
+            margin-top: 50px;
+            height: 60px;
+            background: #E9E9E9
+            
+        }
+    
+        .slogan_text {
+            color: #000;
+            text-align: center;
+            font-family: EB Garamond;
+            font-size: 20px;
+            font-style: italic;
+            font-weight: 600;
+            line-height: 60px;
+            margin: auto;
+            letter-spacing: 2px;
+        
     }
 
           .stati {
-              width: 100%;
+              width: 925px;
               height: 530px;
               margin: 0px auto;
+              margin-top: 50px;
           }
     
           .stat1 {
               width: 430px;
-              height: 410px;
-              margin-left: 10px;
+              height: 300px;
+              margin-left: 0px;
               float: left;
-              margin-top: 80px
+              margin-top: 0px
           }
     
           .stat2 {
@@ -279,7 +271,7 @@
               height: 410px;
               margin-right: 10px;
               float: right;
-              margin-top: 80px
+              margin-top: 0px
           }
     
           .imgg {
@@ -287,26 +279,25 @@
           }
     
           .image1 {
-              width: 430px;
-             
-              transition: 1s;
+              width: 435px;
+              height: 300px;
           }
     
     
     
           .aboutimage {
-              width: 430px;
+              width: 440px;
               height: 100px;
-              margin-top: 20px;
+              margin-top: 6px;
           }
     
           .text1 {
               color: #000;
               font-family: EB Garamond;
-              font-size: 24px;
+              font-size: 21px;
               font-style: normal;
-              font-weight: 400px;
-              line-height: 30px;
+              font-weight: 400;
+              line-height: 28px;
           }
     
           .text2 {
@@ -316,19 +307,19 @@
               font-size: 14px;
               font-style: normal;
               font-weight: 400;
-              line-height: 20px;
+              line-height: 19px;
               margin-top: 10px;
           }
     
           .image2 {
-              width: 430px;
-             
+              width: 435px;
+            height: 300px;
           }
     
           .aboutimage2 {
               width: 430px;
               height: 100px;
-              margin-top: 20px;
+              margin-top: 6px;
           }
 
     .news {
@@ -930,15 +921,6 @@
         float: right;
     }
 
-    h1 {
-        color: #FFF;
-        font-family: EB Garamond;
-        font-size: 20px;
-        font-style: normal;
-        font-weight: 600;
-        line-height: 18px;
-        letter-spacing: 0.5px;
-    }
 
     .title2 {
         width: 100%;
