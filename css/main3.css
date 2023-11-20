@@ -553,17 +553,17 @@
            }
     .price {
         width: 925px;
-        height: 1620px;
+        height: 650px;
         margin-left: 0px;
-        margin-top: 40px;
+        margin-top: 30px;
     }
 
     h3 {
-        width: 350px;
-        height: 70px;
+        width: 540px;
+        height: 60px;
         color: #000;
         font-family: EB Garamond;
-        font-size: 26px;
+        font-size: 24px;
         font-style: normal;
         font-weight: 400;
         letter-spacing: 0.5px;
@@ -572,85 +572,94 @@
     }
 
     .imgm {
-        width: 260px;
+        width: 440px;
     }
+
+        .imgm1 {
+            width: 210px;
+        }
 
     .imgmm {
-        width: 260px;
+        width: 440px;
         margin: auto;
     }
 
-    .blokprice {
-        height: 100%;
-        width: 925px;
-    }
+         .imgmm1 {
+             width: 210px;
+             margin: auto;
+         }
 
-    .right {
-        height: 1215px;
-        float: none;
-        width: 925px;
-    }
+.blokprice {
+    height: 100%;
+    width: 920px;
 
+}
 
-    .righleft {
-        height: 606px;
-        width: 925px;
-        float: none;
-    }
-
-    .rightright {
-        height: 606px;
-        width: 925px;
-        float: none;
-    }
+.right {
+    height: 555px;
+    float: right;
+    width: 440px;
+}
 
 
-    .right2 {
-        height: 320px;
-        width: 925px;
-        float: none;
-    }
+.righleft {
+    height: 555px;
+    width: 210px;
+    float: left;
+}
+
+.rightright {
+    height: 555px;
+    width: 210px;
+    float: right;
+}
 
 
-    .righttext {
-        color: #000;
-        font-family: Inter;
-        font-size: 13px;
-        font-style: normal;
-        margin: auto;
-        line-height: 14px;
-        padding-top: 8px;
-        text-align: center;
-
-    }
-
-    .right1_1 {
-        width: 260px;
-        background: #FFF;
-        height: 30px;
-        border: 1px solid #A7A7A7;
-        margin-top: 5px;
-        margin: auto;
-    }
+.right2 {
+    margin-top: 20px;
+}
 
 
-    a {
-        text-decoration: none;
-    }
+.righttext {
+    color: #000;
+    font-family: Inter;
+    font-size: 13px;
+    font-style: normal;
+    margin: auto;
+    line-height: 14px;
+    padding-top: 8px;
+    text-align: center;
+
+}
+
+.right1_1 {
+    width: 100%;
+    background: #FFF;
+    height: 30px;
+    border: 1px solid #A7A7A7;
+    margin-top: 5px;
+}
 
 
-    .left {
-        width: 925px;
-        float: none;
-    }
 
-    .left_1 {
-        width: 100%;
-        background: #FFF;
-        height: 30px;
-        border: 1px solid #A7A7A7;
-        margin-top: 5px;
-    }
+a {
+    text-decoration: none;
+}
+
+
+.left {
+    width: 440px;
+    float: left;
+}
+
+.left_1 {
+    width: 100%;
+    background: #FFF;
+    height: 30px;
+    border: 1px solid #A7A7A7;
+    margin-top: 5px;
+}
+
 
 
     .stati2 {
