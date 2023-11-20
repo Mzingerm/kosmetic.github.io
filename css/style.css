@@ -321,11 +321,7 @@ color: #000000;
 .imgg {
     max-width: 100%;
 }
-.image1{
-    width: 500px;
-    height: 333px;
-    transition: 1s;
-}
+
 
 .aboutimage{
     width: 500px;
@@ -382,7 +378,7 @@ color: #000000;
     width: 153px;
         height: 42px;
         border: 0.5px solid #666666;
-        background: #FFF;
+        background: hsl(0, 0%, 100%);
         margin-top: 15px;
 }
 
@@ -724,6 +720,11 @@ a {
     margin-top: 36px
 }
 
+.image3 {
+    width: 500px;
+    height: 333px;
+  
+}
 
 .stat4 {
     width: 500px;
