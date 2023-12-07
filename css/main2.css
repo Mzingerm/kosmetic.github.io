@@ -124,7 +124,7 @@
 
     .text_comp {
         width: 540px;
-        height: 260px;
+        height: 300px;
         margin: auto;
         margin-top: 120px;
         margin-bottom: 0px;
@@ -146,7 +146,7 @@
     }
 
     .kyrs {
-        height: 104px;
+        height: 144px;
         margin-top: 30px;
         width: 540px;
         margin-bottom: 50px;
@@ -243,47 +243,53 @@
     }
 
     .stati {
-        width: 540px;
-        height: 900px;
+        width: 460px;
+        height: 815px;
         margin: auto;
     }
 
     .stat1 {
-        width: 540px;
-        height: 430px;
+        width: 460px;
+        height: 400px;
         margin-left: 0px;
-
+margin: auto;
         float: none;
         margin-top: 30px
     }
 
     .stat2 {
-        width: 540px;
-        height: 360px;
+     
+    width: 460px;
+        height: 430px;
         margin-left: 0px;
+        margin: auto;
         float: none;
         margin-top: 30px
     }
 
 
     .imgg {
-        max-width: 100%;
+       width:460px;
+margin: auto;
     }
 
     .image1 {
-        width: 540px;
-        height: 355px;
+        width: 460px;
+        height: 320px;
+        margin: auto;
     }
 
  .image2 {
-     width: 540px;
-     height: 355px;
- }
+width: 460px;
+    height: 320px;
+    margin: auto;}
+
 
     .aboutimage {
-        width: 560px;
+        width: 500px;
         height: 100px;
-        margin-top: 10px;
+        margin-top: 0px;
+        margin: auto;
     }
 
     .text1 {
@@ -297,7 +303,7 @@
 
     .text2 {
         color: #555;
-        width: 540px;
+        width: 500px;
         font-family: Arial;
         font-size: 11px;
         font-style: normal;
@@ -306,15 +312,12 @@
         margin-top: 8px;
     }
 
-    .image2 {
-        width: 540px;
-        height: 295px;
-    }
 
     .aboutimage2 {
-        width: 500px;
+    width: 500px;
         height: 100px;
-        margin-top: 70px;
+        margin-top: 0px;
+        margin: auto;
     }
 
     .news {
@@ -680,43 +683,55 @@
    }
 
 
-    .stati2 {
-        width: 540px;
-        height: 840px;
-        margin: auto;
-        margin-top: 10px;
 
+.aboutimage2 {
+    width: 500px;
+    height: 100px;
+    margin-top: 0px;
+    margin: auto;
+}
+    .stati2 {
+    width: 460px;
+        height: 805px;
+        margin: auto;
     }
+    
 
     .stat3 {
-        width: 540px;
-        height: 390px;
-        margin-left: 0px;
-
-        float: none;
-        margin-top: 30px
+        width: 460px;
+            height: 390px;
+            margin-left: 0px;
+            margin: auto;
+            float: none;
+            margin-top: 30px
     }
 
     .image3 {
-        width: 540px;
+        width: 460px;
+            height: 320px;
+            margin: auto;
     }
 
     .image4 {
-        width: 540px;
+        width: 460px;
+            height: 320px;
+            margin: auto;
     }
 
     .imgst {
-        max-width: 100%;
+    width: 460px;
+        height: 320px;
+        margin: auto;
     }
 
 
     .stat4 {
-        width: 540px;
-        height: 360px;
-        margin-left: 0px;
-
-        float: none;
-        margin-top: 30px
+        width: 460px;
+            height: 400px;
+            margin-left: 0px;
+            margin: auto;
+            float: none;
+            margin-top: 30px
     }
 
 
