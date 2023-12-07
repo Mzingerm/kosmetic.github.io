@@ -569,9 +569,9 @@
 
    .price {
        width: 540px;
-       height: 1200px;
+       height: 1170px;
        margin-left: 0px;
-       margin-top: 30px;
+       margin-top: 50px;
    }
 
    h3 {
@@ -607,7 +607,7 @@
 
    .blokprice {
        height: 100%;
-       width: 920px;
+       width: 540px;
 
    }
 
