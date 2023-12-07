@@ -7,39 +7,19 @@
     .fmenu {
         position: fixed;
         width: 560px;
-        height: 50px;
+        height: 30px;
         background: #FFF;
         top: -20px;
     }
 
     .menu {
         width: 560px;
-        height: 50px;
+        height: 30px;
         background: white;
         position: fixed;
     }
 
-    .menu:hover {
-
-        background: #937F61;
-        transition: 1s;
-
-        .cont1 {
-            color: #FFF;
-        }
-
-        .cont2 {
-            color: #FFF;
-        }
-
-        .logo {
-            color: #FFF;
-        }
-
-        .telephone {
-            color: #FFF;
-        }
-    }
+   
 
     .content {
         width: 540px;
@@ -101,6 +81,7 @@
         font-style: normal;
         line-height: 10px;
         float: right;
+        margin-top: -43px;
     }
 
     .title {
@@ -115,7 +96,7 @@
         margin-left: 10px;
         padding-top: 55px;
         position: relative;
-        top: -200px;
+        top: -280px;
     }
 
     .title_knopka {
@@ -143,15 +124,15 @@
 
     .text_comp {
         width: 540px;
-        height: 350px;
+        height: 260px;
         margin: auto;
-        margin-top: 60px;
+        margin-top: 120px;
         margin-bottom: 0px;
     }
 
     .textblok {
         width: 540px;
-        height: 105px;
+        height: 90px;
         float: none;
 
 
@@ -159,7 +140,7 @@
 
     .textblok1 {
         width: 540px;
-        height: 105px;
+        height: 605px;
         margin-top: 70px;
         float: none;
     }
@@ -217,6 +198,7 @@
         font-size: 16px;
         font-style: normal;
         letter-spacing: 1px;
+        width: 500px;
 
     }
 
@@ -262,13 +244,13 @@
 
     .stati {
         width: 540px;
-        height: 750px;
+        height: 900px;
         margin: auto;
     }
 
     .stat1 {
         width: 540px;
-        height: 360px;
+        height: 430px;
         margin-left: 0px;
 
         float: none;
@@ -290,9 +272,13 @@
 
     .image1 {
         width: 540px;
-        height: 295px;
+        height: 355px;
     }
 
+ .image2 {
+     width: 540px;
+     height: 355px;
+ }
 
     .aboutimage {
         width: 560px;
@@ -328,12 +314,12 @@
     .aboutimage2 {
         width: 500px;
         height: 100px;
-        margin-top: 10px;
+        margin-top: 70px;
     }
 
     .news {
         width: 540px;
-        height: 1145px;
+        height: 1155px;
         margin: auto;
 
     }
@@ -344,7 +330,7 @@
         width: 100%;
         float: none;
         height: 120px;
-        margin-top: 20px;
+        margin-top: 36px;
         text-align: center;
     }
 
@@ -583,9 +569,9 @@
 
     .price {
         width: 540px;
-        height: 1620px;
+        height: 1630px;
         margin-left: 0px;
-        margin-top: 40px;
+        margin-top: 46px;
     }
 
     h3 {
@@ -601,14 +587,25 @@
         text-align: center;
     }
 
-    .imgm {
-        width: 260px;
-    }
+ .imgm {
+     width: 260px;
+ }
 
-    .imgmm {
-        width: 260px;
-        margin: auto;
-    }
+ .imgmm {
+     width: 260px;
+     margin: auto;
+ }
+
+
+ .imgmm1 {
+     width: 260px;
+     margin: auto;
+ }
+
+ .imgm1 {
+     width: 260px;
+     margin: auto;
+ }
 
     .blokprice {
         height: 100%;
@@ -685,14 +682,15 @@
 
     .stati2 {
         width: 540px;
-        height: 735px;
+        height: 840px;
         margin: auto;
+        margin-top: 10px;
 
     }
 
     .stat3 {
         width: 540px;
-        height: 360px;
+        height: 390px;
         margin-left: 0px;
 
         float: none;
@@ -725,8 +723,9 @@
     .propoz {
 
         width: 540px;
-        height: 1145px;
+        height: 1155px;
         margin: auto;
+        margin-top: 10px;
     }
 
 
@@ -737,7 +736,7 @@
         width: 100%;
         float: none;
         height: 120px;
-        margin-top: 20px;
+        margin-top: 34px;
         text-align: center;
     }
 
@@ -751,17 +750,19 @@
         margin: 0px auto;
     }
 
-    .text5 {
-        color: #515151;
-        text-align: none;
-        font-family: Arial;
-        font-size: 13px;
-        font-style: normal;
-        font-weight: 300;
-        line-height: 24px;
-        width: 320px;
-        letter-spacing: 0.5px;
-    }
+                 .text5 {
+                     color: #515151;
+                     text-align: none;
+                     font-family: Arial;
+                     font-size: 13px;
+                     font-style: normal;
+                     font-weight: 300;
+                     line-height: 24px;
+                     width: 320px;
+                     letter-spacing: 0.5px;
+                     margin: auto;
+                     text-align: center;
+                 }
 
     .h4 {
         color: #000;
@@ -989,7 +990,7 @@
     .star {
         width: 20px;
         height: 20px;
-        margin-left: 25px;
+        margin-left: 68px;
         float: left;
     }
 

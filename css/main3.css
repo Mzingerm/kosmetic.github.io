@@ -50,12 +50,13 @@
         float: left;
         margin-left: 0%;
         margin: auto;
+        margin-top: 10px;
     }
 
     .cont1 {
         color: #383230;
         font-family: EB Garamond;
-        font-size: 10px;
+        font-size: 15px;
         font-style: normal;
         line-height: 20px;
         float: left;
@@ -66,7 +67,7 @@
     .cont2 {
         color: #383230;
         font-family: EB Garamond;
-        font-size: 10px;
+        font-size: 15px;
         font-style: normal;
         line-height: 20px;
         float: left;
@@ -76,10 +77,11 @@
     .telephone {
         color: #383230;
         font-family: EB Garamond;
-        font-size: 10px;
+        font-size: 15px;
         font-style: normal;
         line-height: 10px;
         float: right;
+        margin-top: -45px;
     }
 
     .title {
@@ -553,7 +555,7 @@
            }
     .price {
         width: 925px;
-        height: 650px;
+        height: 1200px;
         margin-left: 0px;
         margin-top: 30px;
     }
@@ -596,9 +598,11 @@
 }
 
 .right {
-    height: 555px;
-    float: right;
+    height: 525px;
+    float: none;
+    margin: auto;
     width: 440px;
+
 }
 
 
@@ -649,7 +653,8 @@ a {
 
 .left {
     width: 440px;
-    float: left;
+    float: none;
+    margin: auto;
 }
 
 .left_1 {
@@ -786,7 +791,7 @@ a {
 
     .werh {
         width: 100%;
-        height: 940px;
+        height: 560px;
     }
 
     .werh1 {
@@ -953,7 +958,7 @@ a {
     }
 
     .line1 {
-        width: 200px;
+        width: 420px;
         height: 0.5px;
         background: #000;
         float: left;
@@ -963,12 +968,12 @@ a {
     .star {
         width: 20px;
         height: 20px;
-        margin-left: 25px;
+        margin-left: 35px;
         float: left;
     }
 
     .line2 {
-        width: 200px;
+        width: 420px;
         height: 0.5px;
         background: #000;
         float: right;
