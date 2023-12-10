@@ -3,51 +3,6 @@
 ************/
 
 
-
-/************
-9. 768px
-************/
-
-@media only screen and (max-width: 768px) {
-
-}
-
-/************
-10. 767px
-************/
-
-
-/************
-11. 575px
-************/
-
-@media only screen and (max-width: 575px) {
-
-}
-
-
-/************
-11. 539px
-************/
-
-
-
-/************
-12. 480px
-************/
-
-@media only screen and (max-width: 480px) {
-  
-}
-
-
-
-
-
-/************
-14. 400px
-************/
-
 @media only screen and (max-width: 400px) {
 
   
@@ -672,7 +627,7 @@
     width: 260px;
         margin: auto;
     }
-}
+
 
     .blokprice {
         height: 100%;
@@ -1103,3 +1058,4 @@
         line-height: 14px;
         margin-bottom: 0px;
     }
+}

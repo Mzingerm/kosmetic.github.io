@@ -116,7 +116,7 @@
         margin-left: 10px;
         padding-top: 55px;
         position: relative;
-        top: -200px;
+        top: -240px;
     }
 
     .title_knopka {
@@ -261,77 +261,84 @@
         letter-spacing: 0.5px;
     }
 
-    .stati {
-        width: 450px;
-        height: 750px;
-        margin: auto;
-    }
-
-    .stat1 {
-        width: 450px;
-        height: 360px;
-        margin-left: 0px;
-
-        float: none;
-        margin-top: 30px
-    }
-
-    .stat2 {
-        width: 450px;
-        height: 360px;
-        margin-left: 0px;
-        float: none;
-        margin-top: 30px
-    }
-
-
-    .imgg {
-        max-width: 100%;
-    }
-
-    .image1 {
-        width: 450px;
-        height: 295px;
-    }
-
-
-    .aboutimage {
-        width: 450px;
-        height: 100px;
-        margin-top: 10px;
-    }
-
-    .text1 {
-        color: #000;
-        font-family: EB Garamond;
-        font-size: 16px;
-        font-style: normal;
-        font-weight: 400px;
-        line-height: 15px;
-    }
-
-    .text2 {
-        color: #555;
-        width: 450px;
-        font-family: Arial;
-        font-size: 11px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 16px;
-        margin-top: 8px;
-    }
-
-    .image2 {
-        width: 450px;
-        height: 295px;
-    }
-
-    .aboutimage2 {
-        width: 450px;
-        height: 100px;
-        margin-top: 10px;
-    }
-
+         .stati {
+             width: 430px;
+             height: 765px;
+             margin: auto;
+         }
+    
+         .stat1 {
+             width: 420px;
+             height: 370px;
+             margin-left: 0px;
+             margin: auto;
+             float: none;
+             margin-top: 30px
+         }
+    
+         .stat2 {
+    
+             width: 420px;
+             height: 370px;
+             margin-left: 0px;
+             margin: auto;
+             float: none;
+             margin-top: 30px
+         }
+    
+    
+         .imgg {
+             width: 420px;
+             margin: auto;
+         }
+    
+         .image1 {
+             width: 420px;
+             height: 300px;
+             margin: auto;
+         }
+    
+         .image2 {
+             width: 420px;
+             height: 300px;
+             margin: auto;
+         }
+    
+    
+         .aboutimage {
+             width: 410px;
+             height: 70px;
+             margin-top: 0px;
+             margin: auto;
+         }
+    
+         .text1 {
+             color: #000;
+             font-family: EB Garamond;
+             font-size: 16px;
+             font-style: normal;
+             font-weight: 400px;
+             line-height: 15px;
+         }
+    
+         .text2 {
+             color: #555;
+             width: 410px;
+             font-family: Arial;
+             font-size: 10px;
+             font-style: normal;
+             font-weight: 400;
+             line-height: 16px;
+             margin-top: 8px;
+         }
+    
+    
+         .aboutimage2 {
+             width: 410px;
+             height: 100px;
+             margin-top: 0px;
+             margin: auto;
+         }
     .news {
         width: 450px;
         height: 1145px;
@@ -345,7 +352,7 @@
         width: 100%;
         float: none;
         height: 120px;
-        margin-top: 20px;
+        margin-top: 30px;
         text-align: center;
     }
 
@@ -695,43 +702,47 @@
 
 
     .stati2 {
-        width: 450px;
-            height: 755px;
+        width: 430px;
+            height: 740px;
             margin: auto;
            
     }
 
     .stat3 {
-    width: 450px;
-        height: 360px;
+    width: 420px;
+        height: 346px;
         margin-left: 0px;
-    
+        margin: auto;
         float: none;
-        margin-top: 30px
+        margin-top: 40px
     }
 
   .image3 {
-      width: 450px;
-      height: 310px;
+    width: 420px;
+        height: 290px;
+        margin: auto;
   }
 
     .image4 {
-        width: 450px;
+        width: 420px;
+            height: 290px;
+            margin: auto;
     }
 
     .imgst {
-        max-width: 100%;
+    width: 420px;
+      
+        margin: auto;
     }
 
 
     .stat4 {
-        width: 450px;
-            height: 350px;
+        width: 420px;
+            height: 346px;
             margin-left: 0px;
-        
+            margin: auto;
             float: none;
-            margin-top: 30px
-    }
+            margin-top: 30px;}
 
 
     .propoz {

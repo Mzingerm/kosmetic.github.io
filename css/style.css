@@ -1,3 +1,9 @@
+* {
+    transition: 1sl;
+}
+html {
+    scroll-behavior: smooth;
+}
 .main{
 width: 1200px;
 margin: auto;
